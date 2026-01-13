@@ -1,4 +1,6 @@
-# <h1 align="center">🌍 FWDNNet</h1>
+[main_FWDNNet_frameworkV1.pdf](https://github.com/user-attachments/files/24593879/main_FWDNNet_frameworkV1.pdf)# <h1 align="center">🌍 FWDNNet</h1>
+
+
 # <h3 align="center">Cross-Heterogeneous Encoder Fusion via Feature-Level TensorDot Operations for Land-Cover Mapping</h3>
 
 <p align="center">
@@ -167,7 +169,7 @@ We present **FWDNNet**, a novel encoder-decoder architecture that integrates **h
 ## 🏗️ Architecture
 
 <div align="center">
-
+[Uploading main_FWDNNet_frameworkV1.pdf…]()
 ### Network Overview
 
 ```mermaid
@@ -654,19 +656,21 @@ Water: 95.1%
 
 *(Space reserved for qualitative comparison figures)*
 
-### 📉 Training Curves
+[main_FWDNNet_SoA_V4.pdf](https://github.com/user-attachments/files/24593926/main_FWDNNet_SoA_V4.pdf)
 
-*(Space reserved for training convergence plots)*
+### 📉 Training Curves 
+[Figure_8_training_History11.pdf](https://github.com/user-attachments/files/24593955/Figure_8_training_History11.pdf)
 
-### 🔍 Feature Maps
+### 🔍 Feature Maps: *(attention weight visualizations)*
 
-*(Space reserved for attention weight visualizations)*
+[feature_maps_GT_Probability_pridictions.pdf](https://github.com/user-attachments/files/24593904/feature_maps_GT_Probability_pridictions.pdf)
 
 ### 🗺️ Large-Scale Mapping
 
-*(Space reserved for regional-scale inference results)*
+*(regional-scale inference results)*
 
----
+---[Oklahoma_size2Practical mapping_V2.pdf](https://github.com/user-attachments/files/24593917/Oklahoma_size2Practical.mapping_V2.pdf)
+
 
 ## 🙏 Acknowledgments
 
