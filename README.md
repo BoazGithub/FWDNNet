@@ -654,21 +654,21 @@ Water: 95.1%
 ### 🎨 Qualitative Results
 
 *(Space reserved for qualitative comparison figures)*
-
-[main_FWDNNet_SoA_V4.pdf](https://github.com/user-attachments/files/24593926/main_FWDNNet_SoA_V4.pdf)
+![main_FWDNNet_SoA_V4_page-0001](https://github.com/user-attachments/assets/8258dd28-ccfa-434c-a33a-d759defb1377)
 
 ### 📉 Training Curves 
 [Figure_8_training_History11.pdf](https://github.com/user-attachments/files/24593955/Figure_8_training_History11.pdf)
 
 ### 🔍 Feature Maps: *(attention weight visualizations)*
+![feature_maps_GT_Probability_pridictions_page-0001](https://github.com/user-attachments/assets/dce98da3-2e3a-4dc5-b699-78d044fd3f73)
 
-[feature_maps_GT_Probability_pridictions.pdf](https://github.com/user-attachments/files/24593904/feature_maps_GT_Probability_pridictions.pdf)
 
 ### 🗺️ Large-Scale Mapping
 
 *(regional-scale inference results)*
 
----[Oklahoma_size2Practical mapping_V2.pdf](https://github.com/user-attachments/files/24593917/Oklahoma_size2Practical.mapping_V2.pdf)
+![Oklahoma_size2Practical mapping_V2_page-0001](https://github.com/user-attachments/assets/8f348b32-1e1b-41a3-aab5-b81b5dabfc7a)
+
 
 
 ## 🙏 Acknowledgments
