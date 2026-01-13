@@ -1,6 +1,6 @@
 # <h1 align="center">🌍 FWDNNet</h1>
 
-# <h3 align="center">Cross-Heterogeneous Encoder Fusion via Feature-Level TensorDot Operations for Land-Cover Mapping</h3>
+# <h3 align="center">FWDNNet: Cross-Heterogeneous Encoder Fusion via Feature-Level TensorDot Operations for Land-Cover Mapping</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.7+">
