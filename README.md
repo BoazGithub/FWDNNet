@@ -713,11 +713,29 @@ If you find this work useful in your research, please consider citing:
 Our previous works on land cover mapping:
 
 ```bibtex
-@article{mwubahimana2024vhfparanet,
-  title={Vision Transformers Feature Harmonization Network for High-Resolution Land Cover Mapping},
-  author={Mwubahimana, Boaz and Yan, Jianguo and Roy, Swalpa Kumar and others},
-  journal={International Journal of Applied Earth Observation and Geoinformation},
-  year={2024}
+@ARTICLE{11124258,
+  author={Mwubahimana, Boaz and Jianguo, Yan and Miao, Dingruibo and Li, Zhuohong and Guo, Haonan and Ma, Le and Mugabowindekwe, Maurice and Roy, Swalpa Kumar and Huang, Xiao and Nyandwi, Elias and Joseph, Tuyishimire and Habineza, Eric and Mwizerwa, Fidele and Athanase, Hafashimana and Rwanyiziri, Gaspard},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={C2FNet: Cross-Probabilistic Weak Supervision Learning for High-Resolution Land Cover Enhancement}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-30},
+  keywords={Spatial resolution;Remote sensing;Land surface;Weak supervision;Training;Feature extraction;Annotations;Image resolution;Noise measurement;Earth;Coarse-to-fine networks (C2FNets);cross-resolution learning;deep neural networks;Earth observation;land cover mapping;probabilistic supervision;remote sensing;weakly supervised learning (WSL)},
+  doi={10.1109/TGRS.2025.3598681}}
+
+```
+
+@article{Mwubahimana19052025,
+  author = {Boaz Mwubahimana and Yan Jianguo and Maurice Mugabowindekwe and Xiao Huang and Elias Nyandwi and Joseph Tuyishimire and Eric Habineza and Fidele Mwizerwa and Dingruibo Miao},
+  title = {Vision transformer-based feature harmonization network for fine-resolution land cover mapping},
+  journal = {International Journal of Remote Sensing},
+  volume = {46},
+  number = {10},
+  pages = {3736--3769},
+  year = {2025},
+  publisher = {Taylor \& Francis},
+  doi = {10.1080/01431161.2025.2491816}
 }
 ```
 
