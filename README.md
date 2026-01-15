@@ -19,7 +19,7 @@
 
 <p align="center">
   <strong>✨ Official PyTorch Implementation ✨</strong><br>
-  <strong>🎉 Accepted at IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS) 2025 🎉</strong>
+  <strong>🎉 31-December-2025 Accepted at IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS) 🎉</strong>
 </p>
 
 <p align="center">
@@ -36,9 +36,10 @@
 ## 📢 Latest News
 
 ```diff
-+ 🎊 January 2025: FWDNNet accepted for publication in IEEE TGRS!
-+ 📝 November 2024: Manuscript submitted to IEEE TGRS
-+ 🚀 October 2024: Code and datasets publicly released
++ 🎊 31-December-2025: FWDNNet accepted for publication in IEEE TGRS!
++ 📝 November 2025: Manuscript submitted to IEEE TGRS
++ 🚀 October 2023: sKwanda_V3 datasets publicly released
++ 🚀 March 2023: Code and datasets developed
 ```
 
 ---
