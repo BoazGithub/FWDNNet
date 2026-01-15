@@ -655,9 +655,6 @@ Water: 95.1%
 
 ### 🎨 Qualitative Results
 
-*(qualitative comparison figures)*
-![main_FWDNNet_SoA_V4_page-0001](https://github.com/user-attachments/assets/8258dd28-ccfa-434c-a33a-d759defb1377)
-
 ### 📉 Training Curves 
 ![Figure_8_training_History11 (1)_page-0001](https://github.com/user-attachments/assets/9ffcc56e-0d9d-416b-907c-78f9c0ee8cfe)
 
@@ -665,6 +662,8 @@ Water: 95.1%
 ### 🔍 Feature Maps: *(attention weight visualizations)*
 ![feature_maps_GT_Probability_pridictions_page-0001](https://github.com/user-attachments/assets/dce98da3-2e3a-4dc5-b699-78d044fd3f73)
 
+*(qualitative comparison figures)*
+![main_FWDNNet_SoA_V4_page-0001](https://github.com/user-attachments/assets/8258dd28-ccfa-434c-a33a-d759defb1377)
 
 ### 🗺️ Large-Scale Mapping
 
