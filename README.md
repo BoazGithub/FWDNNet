@@ -803,19 +803,7 @@ Licensed under the MIT License for research purposes.
 ## 🎓 Recommended Citation Format
 
 **IEEE Style:**
-> ```bibtex
-@ARTICLE{11124258,
-  author={Mwubahimana, Boaz and Jianguo, Yan and Miao, Dingruibo and Li, Zhuohong and Guo, Haonan and Ma, Le and Mugabowindekwe, Maurice and Roy, Swalpa Kumar and Huang, Xiao and Nyandwi, Elias and Joseph, Tuyishimire and Habineza, Eric and Mwizerwa, Fidele and Athanase, Hafashimana and Rwanyiziri, Gaspard},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={C2FNet: Cross-Probabilistic Weak Supervision Learning for High-Resolution Land Cover Enhancement}, 
-  year={2025},
-  volume={63},
-  number={},
-  pages={1-30},
-  keywords={Spatial resolution;Remote sensing;Land surface;Weak supervision;Training;Feature extraction;Annotations;Image resolution;Noise measurement;Earth;Coarse-to-fine networks (C2FNets);cross-resolution learning;deep neural networks;Earth observation;land cover mapping;probabilistic supervision;remote sensing;weakly supervised learning (WSL)},
-  doi={10.1109/TGRS.2025.3598681}}
-
-
+>
 **APA Style:**
 > Mwubahimana, B., Yan, J., Miao, D., Roy, S. K., Li, Z., Ma, L., ... & Huang, X. (2025). FWDNNet: Cross-Heterogeneous Encoder Fusion via Feature-Level TensorDot Operations for Land-Cover Mapping. *IEEE Transactions on Geoscience and Remote Sensing*. [Accepted for publication]
 
