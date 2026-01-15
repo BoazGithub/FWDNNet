@@ -696,14 +696,16 @@ We acknowledge support from:
 If you find this work useful in your research, please consider citing:
 
 ```bibtex
-@article{mwubahimana2025fwdnnet,
-  title={FWDNNet: Cross-Heterogeneous Encoder Fusion via Feature-Level TensorDot Operations for Land-Cover Mapping},
-  author={Mwubahimana, Boaz and Yan, Jianguo and Miao, Dingruibo and Roy, Swalpa Kumar and Li, Zhuohong and Ma, Le and Kagoyire, Clarisse and Guo, Haonan and Mugabowindekwe, Maurice and Nyandwi, Elias and Nzayisenga, Isaac and Athanase, Hafashimana and Maridadi, Eugene and Nsengiyumva, Jean Baptiste and Byukusenge, Elie and Dukundane, Remy and Rwanyiziri, Gaspard and Huang, Xiao},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2025},
-  publisher={IEEE},
-  note={Accepted for publication}
-}
+@ARTICLE{11343844,
+  author={Mwubahimana, Boaz and Jianguo, Yan and Miao, Dingruibo and Roy, Swalpa Kumar and Li, Zhuohong and Ma, Le and Kagoyire, Clarisse and Guo, Haonan and Mugabowindekwe, Maurice and Nyandwi, Elias and Nzayisenga, Isaac and Athanase, Hafashimana and Maridadi, Eugene and Nsengiyumva, Jean Baptiste and Byukusenge, Elie and Dukundane, Remy and Rwanyiziri, Gaspard and Huang, Xiao},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={FWDNNet: Cross-Heterogeneous Encoder Fusion via Feature-Level TensorDot Operations for Land-Cover Mapping}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Remote sensing;Transformers;Computer architecture;Feature extraction;Semantic segmentation;Computational modeling;Computational efficiency;Semantics;Land surface;Faces;Convolutional neural networks (CNNs);deep learning;CNN-to-token conversion;TensorDot fusion;remote sensing (RS) segmentation},
+  doi={10.1109/TGRS.2026.3652451}}
 ```
 
 ### 📚 Related Publications
