@@ -725,7 +725,7 @@ Our previous works on land cover mapping:
   doi={10.1109/TGRS.2025.3598681}}
 
 ```
-
+```bibtex
 @article{Mwubahimana19052025,
   author = {Boaz Mwubahimana and Yan Jianguo and Maurice Mugabowindekwe and Xiao Huang and Elias Nyandwi and Joseph Tuyishimire and Eric Habineza and Fidele Mwizerwa and Dingruibo Miao},
   title = {Vision transformer-based feature harmonization network for fine-resolution land cover mapping},
