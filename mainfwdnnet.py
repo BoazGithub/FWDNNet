@@ -7,7 +7,8 @@ from typing import List, Tuple, Dict, Optional
 
 class TensorDotFusion(nn.Module):
     """
-    we may appologize and request you that, for equation references may change based on how we will be revising the paper for final production with IEEE,
+    we may appologize and request you that, for equation references may change based:
+    on how we will be revising the paper for final production with IEEE,
     please be aware of this if you are refering to paper equations as guidance
     TensorDot Fusion Module implementing (see in main paper and supplimenatry materials at Equations 2-4) from the paper.
     Performs multilinear transformation to capture high-order interactions.
